@@ -27,7 +27,7 @@ namespace exercicio18
 		idadeEmAnos = anoAtual - anoNascimento;
 
 		if (idadeEmAnos >= 18) {
-			Console.WriteLine("Você pode votar este ano!");
+			Console.WriteLine("Você pode votar este ano!!!");
 		} else {
 			Console.WriteLine("Você tem " + idadeEmAnos + " anos , não pode votar este ano!");
 		}
