@@ -16,6 +16,12 @@ namespace input
       string userNumber = Console.ReadLine();
 
       Console.WriteLine("O nome digitado foi: " + userName + "  e o número digitado foi: " + userNumber);
+        
+      Console.WriteLine("Qual é a sua idade:");
+      int age = Convert.ToInt32(Console.ReadLine());
+      Console.WriteLine("Sua idade é: " + age);
+        
+        
         }
     }
 }
