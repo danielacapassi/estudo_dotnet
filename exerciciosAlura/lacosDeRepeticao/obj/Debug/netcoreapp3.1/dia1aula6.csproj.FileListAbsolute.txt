@@ -11,3 +11,16 @@ C:\Users\Daniela\Desktop\Alura_CSharp\dia1aula6\obj\Debug\netcoreapp3.1\dia1aula
 C:\Users\Daniela\Desktop\Alura_CSharp\dia1aula6\obj\Debug\netcoreapp3.1\dia1aula6.dll
 C:\Users\Daniela\Desktop\Alura_CSharp\dia1aula6\obj\Debug\netcoreapp3.1\dia1aula6.pdb
 C:\Users\Daniela\Desktop\Alura_CSharp\dia1aula6\obj\Debug\netcoreapp3.1\dia1aula6.genruntimeconfig.cache
+C:\Users\Daniela\Desktop\estudo_dotnet\exerciciosAlura\lacosDeRepeticao\bin\Debug\netcoreapp3.1\dia1aula6.exe
+C:\Users\Daniela\Desktop\estudo_dotnet\exerciciosAlura\lacosDeRepeticao\bin\Debug\netcoreapp3.1\dia1aula6.deps.json
+C:\Users\Daniela\Desktop\estudo_dotnet\exerciciosAlura\lacosDeRepeticao\bin\Debug\netcoreapp3.1\dia1aula6.runtimeconfig.json
+C:\Users\Daniela\Desktop\estudo_dotnet\exerciciosAlura\lacosDeRepeticao\bin\Debug\netcoreapp3.1\dia1aula6.runtimeconfig.dev.json
+C:\Users\Daniela\Desktop\estudo_dotnet\exerciciosAlura\lacosDeRepeticao\bin\Debug\netcoreapp3.1\dia1aula6.dll
+C:\Users\Daniela\Desktop\estudo_dotnet\exerciciosAlura\lacosDeRepeticao\bin\Debug\netcoreapp3.1\dia1aula6.pdb
+C:\Users\Daniela\Desktop\estudo_dotnet\exerciciosAlura\lacosDeRepeticao\obj\Debug\netcoreapp3.1\dia1aula6.csprojAssemblyReference.cache
+C:\Users\Daniela\Desktop\estudo_dotnet\exerciciosAlura\lacosDeRepeticao\obj\Debug\netcoreapp3.1\dia1aula6.AssemblyInfoInputs.cache
+C:\Users\Daniela\Desktop\estudo_dotnet\exerciciosAlura\lacosDeRepeticao\obj\Debug\netcoreapp3.1\dia1aula6.AssemblyInfo.cs
+C:\Users\Daniela\Desktop\estudo_dotnet\exerciciosAlura\lacosDeRepeticao\obj\Debug\netcoreapp3.1\dia1aula6.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\estudo_dotnet\exerciciosAlura\lacosDeRepeticao\obj\Debug\netcoreapp3.1\dia1aula6.dll
+C:\Users\Daniela\Desktop\estudo_dotnet\exerciciosAlura\lacosDeRepeticao\obj\Debug\netcoreapp3.1\dia1aula6.pdb
+C:\Users\Daniela\Desktop\estudo_dotnet\exerciciosAlura\lacosDeRepeticao\obj\Debug\netcoreapp3.1\dia1aula6.genruntimeconfig.cache

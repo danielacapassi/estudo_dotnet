@@ -80,6 +80,16 @@ namespace dia1aula6
                 }
                 Console.WriteLine();
             }
+                Console.WriteLine("-----------------------------");
+               //imprimir os fatoriais de 1 a 10! (O fatorial de um número n é n * n-1 * n-2 ... até n = 1.O fatorial de 4! = 1 x 2 x 3 x 4 = 24)
+
+                int fatorial = 1;
+                for (int o = 1; o < 11; o++)
+                {
+                    fatorial *= o;
+                    Console.WriteLine("Fatorial de " + o + " = " + fatorial);
+        }
+
           
                 Console.WriteLine("-----------------------------");
                 //imprimir todos os múltiplos de 3, entre 1 e 100.
