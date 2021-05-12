@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dia1aula6/1.0.0": {
+        "runtime": {
+          "dia1aula6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dia1aula6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
