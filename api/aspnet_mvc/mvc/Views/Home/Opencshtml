@@ -1,0 +1,8 @@
+@{
+    ViewData["Title"] = "I'm a test page!";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Open...</h1>
+    <p>teste!!!</p>
+</div> 
